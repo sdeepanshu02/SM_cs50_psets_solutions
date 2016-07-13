@@ -1,0 +1,13 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+. 
+Dimension between 3x3 to 9x9, both inclusive, are allowed by the framework.
+
+1. Board uses a two dimensional integer array as its data structure.
+
+2. greet()
+
+3. init(); draw(); move(); bool won();

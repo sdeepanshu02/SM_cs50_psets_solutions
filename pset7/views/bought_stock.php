@@ -1,0 +1,1 @@
+<h5>You bought <?= $shares ?> shares at $<?= $stock["price"] ?></h5>

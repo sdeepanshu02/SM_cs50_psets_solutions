@@ -1,0 +1,1 @@
+<h5>You sold your stock for $<?= $sold_for ?>.</h5>

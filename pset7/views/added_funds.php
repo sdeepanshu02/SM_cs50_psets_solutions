@@ -1,0 +1,1 @@
+<h5>You've added $<?= $added ?> to your account.</h5>
